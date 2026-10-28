@@ -1,0 +1,11 @@
+{
+  "org": "jupyter",
+  "repo": "cookiecutter-docker-stacks",
+  "versions": [
+    {
+      "commit": "68410a7827ca33e8126bb31a9fb3bc93287d55ac",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:11:46.089123+00:00"
+    }
+  ]
+}
