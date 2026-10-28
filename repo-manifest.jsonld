@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/jupyter/cookiecutter-docker-stacks/commit/68410a7827ca33e8126bb31a9fb3bc93287d55ac",
       "git:hexsha": "68410a7827ca33e8126bb31a9fb3bc93287d55ac",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-28T11:11:46.088700+00:00"
     }
   ]
 }
